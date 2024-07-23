@@ -1,0 +1,11 @@
+1.News Agency:
+
+Develop a web application where users can view, search, and save news articles from various sources. Use Flask as the web framework, SQLAlchemy for database interactions, and integrate with news APIs to fetch the latest articles.
+
+2.Book Recommendation website:
+
+Build a web application where users can create account, log in, rate books, and get recommendations
+
+3.Currency Exchange Application:
+
+Develop a web application that allows users to view current exchange rates and convert between different currencies.
